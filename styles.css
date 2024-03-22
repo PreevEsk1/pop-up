@@ -87,5 +87,5 @@ h1 {
 
   .popup .content {
     max-height: 30%;
-   
+    overflow: auto;
   }
