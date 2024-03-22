@@ -84,3 +84,8 @@ h1 {
   .popup .close:hover {
     color: #06D85F;
   }
+
+  .popup .content {
+    max-height: 30%;
+   
+  }
